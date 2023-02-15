@@ -6,7 +6,7 @@ University App demonstrates list of university with search functionality and use
 <img src="https://github.com/chetanmuliya/University/blob/master/Screenshot%202023-02-15%20222211.png"  width="320"/>
 
 
-<img src="https://github.com/chetanmuliya/University/blob/master/university_app_gif.png" align="right" width="320"/>
+<img src="https://github.com/chetanmuliya/University/blob/master/university_app_gif.png" align="right" width="320" height="600"/>
 
 ## Tech stack & Open-source libraries
 
